@@ -1,0 +1,16 @@
+current directory: /Users/debayanchowdhury/Developer/ReactNativeProjects/ReactNativeStateManagement/todo_axios_redux_ts/vendor/bundle/ruby/2.6.0/gems/nkf-0.2.0/ext/nkf
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20240825-8988-13upq3d.rb extconf.rb
+creating Makefile
+
+current directory: /Users/debayanchowdhury/Developer/ReactNativeProjects/ReactNativeStateManagement/todo_axios_redux_ts/vendor/bundle/ruby/2.6.0/gems/nkf-0.2.0/ext/nkf
+make "DESTDIR=" clean
+
+current directory: /Users/debayanchowdhury/Developer/ReactNativeProjects/ReactNativeStateManagement/todo_axios_redux_ts/vendor/bundle/ruby/2.6.0/gems/nkf-0.2.0/ext/nkf
+make "DESTDIR="
+compiling nkf.c
+linking shared-object nkf.bundle
+ld: warning: search path '/AppleInternal/Library/BuildRoots/4ff29661-3588-11ef-9513-e2437461156c/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.6.Internal.sdk/usr/local/lib' not found
+
+current directory: /Users/debayanchowdhury/Developer/ReactNativeProjects/ReactNativeStateManagement/todo_axios_redux_ts/vendor/bundle/ruby/2.6.0/gems/nkf-0.2.0/ext/nkf
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20240825-8988-1qdi80e
